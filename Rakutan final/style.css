@@ -1,0 +1,217 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: space-between;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    font-size: 33px;
+    position: absolute;
+    top: 0;
+
+    
+}
+.header a{
+ margin-right: 250px;   
+    text-decoration: none;
+}
+.banner-container{
+    margin-top: 178px;
+    height: 55vh;
+    width: 100%;
+background-color: #8529cd;
+    
+}
+.banner-container .container{
+    display:flex;
+    justify-content: space-around;
+    width: 100%;
+}
+.right-section{
+    width: 1108px;
+    padding-left: 951px;
+    margin-top: -145px;
+
+}
+.right-section.img1{
+    
+    padding-left: 1000px;
+    margin-top: -145px;
+}
+.left-section{
+    padding-left: 338px;
+    padding-top: 77px;
+    font-size: 58px;
+    color: white;
+    font-size: 39px;
+}
+#btn{
+    background-color: #ffffff; 
+  border: none;
+  color: rgb(0, 0, 0);
+  padding: 15px 32px;
+  text-align: center;
+  border-radius: 8px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.coupon{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 7px;
+    background-color: rgb(211, 206, 206);
+}
+.para1click{
+    font-size: 39px;
+}
+.chromebtn{
+    background-color:#8529cd; 
+    border: none;
+    color: white;
+    padding: 10px 24px;;
+    text-align: center;
+    border-radius: 83px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+}
+.multiple-logos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.left-text1{
+    padding-left: 488px;
+
+}
+.processmap{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+   
+
+}
+.Rworking{
+    
+    background-color: rgb(216, 211, 211);
+    height: 514px;
+}
+.basechrome{
+    background-color: #ffffff; 
+    border: none;
+    color: #8529cd;
+    padding: 15px 32px;
+    text-align: center;
+    border-radius: 16px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+
+}
+.CashBack{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+.paidmembers{
+    margin-left: -334px;
+    font-size: 49px;
+    padding-top: 58px;
+}
+.moreforyou{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+.more1{
+    margin-left: 227px;
+    padding-top: 74px;
+}
+.Shopwhenever{
+    display: flex;
+    padding-top: 43px;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+.rakutancashback{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+
+}
+.shopRakutan{
+background-color: rgb(227, 228, 224);
+}
+.fjoin{
+    background-color: #8529cd; 
+    border: none;
+    color: #ffffff;
+    padding: 15px 32px;
+    text-align: center;
+    border-radius: 16px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;   
+}
+.footer11{
+    height: 637px;
+    padding-top: 68px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: aliceblue;
+    
+
+}
+.footer1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-bottom: 129px;
+}
+.footer2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-bottom: 1px;
+}
+.footer3{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-bottom: 48px;
+}
+.footer4{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-bottom: 1px;
+}
+.sectionfooter{
+    background-color: #252525;
+    font-size: 15px;
+
+}
+.foooter{
+    display: flex;
+    flex-direction: row;
+    font-size: 24px;
+    justify-content: space-evenly;
+
+}
+.extremefoot{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
